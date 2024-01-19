@@ -1,0 +1,8 @@
+setup.py
+mi_primer_paquete_changazo.egg-info/PKG-INFO
+mi_primer_paquete_changazo.egg-info/SOURCES.txt
+mi_primer_paquete_changazo.egg-info/dependency_links.txt
+mi_primer_paquete_changazo.egg-info/top_level.txt
+modelo_clientes/__init__.py
+modelo_clientes/archivo.py
+modelo_clientes/cliente.py

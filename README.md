@@ -1,2 +1,1 @@
-# totopython
-asdasa
+Curso Python info
